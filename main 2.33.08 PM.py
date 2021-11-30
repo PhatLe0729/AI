@@ -50,7 +50,7 @@ os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (x, y)
 # width, height = 400, 200
 win = pygame.display.set_mode((400, 200))
 pygame.display.set_caption("Robot")
-background_image = pygame.image.load("/Users/ethan/Desktop/siri.png").convert_alpha()
+background_image = pygame.image.load("siri.jpg").convert_alpha()
 # clock = pygame.time.Clock()
 running = True
 while running:
