@@ -4,7 +4,7 @@ import wikipedia
 import requests, json
 from datetime import date, datetime
 from googlesearch import search
-# from PyQt5 import QtWidgets
+# from PyQt5 import QtWidgets 
 # from PyQt5.QtWidgets import QApplication, QMainWindow
 import sys
 
